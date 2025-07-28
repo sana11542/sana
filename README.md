@@ -1,3 +1,3 @@
-# sana
-this is my first repository
-<br>hello world
+
+# College Info Page
+A simple academic project with HTML and CSS.
